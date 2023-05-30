@@ -1,5 +1,5 @@
 - 👋 Hi, I’m KhalidZak
-- 👀 I’m interested in fullstack web devlooment
+- 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on front and backend web developnent with js
 - 📫 you can reach me through my mail at commanderwarp1@gmail.com or twitter @khal_xoxo
