@@ -1,4 +1,4 @@
-#👋 Hi, I’m KhalidZak
+👋 Hi, I’m KhalidZak
 - 👀 I’m interested in fullstack web development
 - 🌱 I’m currently learning react
 - 💞️ I’m looking to collaborate on front and backend web developnent with js
