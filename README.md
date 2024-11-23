@@ -1,7 +1,7 @@
 <h1>👋 Hi, I’m Khalid Zakariya</h1>
 <ul>
   <li>👀 I’m interested in fullstack web development</li>
-  <li>🌱 I’m currently learning react</li>
+  <li>🌱 I’m currently learning node.js</li>
   <li>💞️ I’m looking to collaborate on front and backend web developnent with js
 </li>
   <li>📫 you can reach me through my mail at khalidzakthefirst@gmail.com or twitter @khal_xoxo
